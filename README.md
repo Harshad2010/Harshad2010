@@ -9,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/harshad-deshmukh-61b07685/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshad deshmukh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshad-deshmukh-61b07685/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshad deshmukh" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -47,8 +49,8 @@
 
 <h3 align="left">GitHub Actions</h3>
 <p align="left">
-  <img src="https://github.com/harshad2010/harshad2010/actions/workflows/ci.yml/badge.svg" alt="CI Status">
-  <img src="https://github.com/harshad2010/harshad2010/actions/workflows/deploy.yml/badge.svg" alt="Deployment Status">
+  <img src="https://github.com/harshad2010/<repository-name>/actions/workflows/ci.yml/badge.svg" alt="CI Status">
+  <img src="https://github.com/harshad2010/<repository-name>/actions/workflows/deploy.yml/badge.svg" alt="Deployment Status">
 </p>
 
 - **Workflows executed:** 35+
