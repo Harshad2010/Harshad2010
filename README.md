@@ -3,12 +3,13 @@
 
 <img align="right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
-- 💬 Ask me about **💬 Ask me about Deep Learning
-Machine Learning
-Computer vision
-Natural Language Processing
-MLOps
-Generative AI **
+- 💬 I have technical experience and interest in: **💬
+- Deep Learning
+- Machine Learning
+- Computer vision
+- Natural Language Processing
+- MLOps
+- Generative AI **
 
 - 📫 How to reach me **deshmukhharshad2010@gmail.com**
 
