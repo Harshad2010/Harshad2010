@@ -1,47 +1,23 @@
-# 👋 Hi, I'm Harshad Deshmukh
+<h1 align="center">Hi 👋, I'm Harshad</h1>
+<h3 align="center">A Curious Data Scientist  </h3>
 
-### 🚀 Machine Learning Engineer 
+<img align="right" alt="coding" width="400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
 
----
+💬 Deep Learning, Machine Learning, Computer vision, Natural Language Processing, MLOps, Generative AI  **💬
 
-I’m passionate about building AI-driven solutions that tackle real-world problems. My focus lies in developing scalable ML models, integrating MLOps pipelines, and deploying reliable production-grade systems. I thrive on exploring emerging technologies, cloud platforms, and contributing to impactful projects.
 
-- 🔭 **Current Focus:** Building and designing ML systems in Deep Learning & Generative AI
-- 📚 **Currently Learning:** LLMOps, Agentic AI Systems
-- ⚙️ **Core Skills:** Machine Learning | Generative AI | Model Deployment | MLOps
+- 📫 How to reach me **deshmukhharshad2010@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harshad-deshmukh-61b07685/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshad deshmukh" height="30" width="40" /></a>
+</p>
 
-### 🌐 Connect With Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-- 📧 **Email:** deshmukhharshad2010@gmail.com  
-- 💼 **LinkedIn:** [Harshad Deshmukh](https://www.linkedin.com/in/harshad-deshmukh-61b07685/)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshad2010&show_icons=true&locale=en&layout=compact" alt="harshad2010" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshad2010&show_icons=true&locale=en" alt="harshad2010" /></p>
 
-### 🛠️ Tools & Technologies
-
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
-**Data Science & ML Frameworks:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
-
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-**Deployment & MLOps Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-**Cloud Platforms:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![Harshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
----
-
-✨ _Let's connect, collaborate, and build something meaningful together!_
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshad2010&" alt="harshad2010" /></p>
