@@ -6,8 +6,8 @@
 
 I’m passionate about building AI-driven solutions that address real-world challenges. My focus lies in developing scalable ML models, integrating MLOps pipelines, and deploying reliable systems into production. I enjoy exploring new technologies, cloud tools, and working on impactful projects.
 
-- 🔭 **Current Focus:** [Your current focus — e.g., Building and Designing ML systems in Deep Learning, Generative AI]
-- 📚 **Learning:** [Topics you're currently learning — e.g., LLMOps, Agentic AI system]
+- 🔭 **Current Focus:** [Building and Designing ML systems in Deep Learning, Generative AI]
+- 📚 **Learning:** [LLMOps, Agentic AI system]
 - ⚙️ **Skills:** Machine Learning | Generative AI | Model Deployment | MLOps | 
 
 ---
