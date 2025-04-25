@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshad Deshmukh
 
-### 🚀 Machine Learning Engineer | Generative AI Enthusiast
+### 🚀 Machine Learning Engineer 
 
 ---
 
